@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  font-size: 30px;
+  color:blueviolet;
+  background-color: black;  
+}
+.sp,.di{
+    margin: 10px;
+}
+img{
+    width: 45%;
+}
